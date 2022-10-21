@@ -48,6 +48,8 @@ library(betareg)
 library(nlme)
 
 
+create.dir("Results")
+create.dir("Analysis")
 
 
 #Spatially represent populations ----
