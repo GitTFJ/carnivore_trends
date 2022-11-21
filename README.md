@@ -1,4 +1,5 @@
-# Code and data to accompany a currently unpublished ms.
+# Code and data to accompany a 'Socioeconomic factors predict population changes of large carnivores better than climate change or habitat loss'
+
 
 This repository should be saved inside an R project. All file paths are relative. This code should be run entirely from the '0_runV0.2.R' file.
 
